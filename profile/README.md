@@ -6,6 +6,7 @@ Clover Digital LLC builds and runs custom-trained digital employees that handle 
 
 - **Website:** https://cloverdigital.com/
 - **What is a digital employee?** https://cloverdigital.com/guides/what-is-a-digital-employee.html
+- **Managed AI services for small business:** https://cloverdigital.com/guides/managed-ai-services-for-small-business.html
 - **Contact:** hello@cloverdigital.com · +1 217-299-1232
 
 _Grounded in reality. Built for Main Street. Not affiliated with Clover Network or Clover POS._
